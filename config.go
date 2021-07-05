@@ -24,11 +24,11 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/OpenStars/beego/config"
-	"github.com/OpenStars/beego/context"
-	"github.com/OpenStars/beego/logs"
-	"github.com/OpenStars/beego/session"
-	"github.com/OpenStars/beego/utils"
+	"github.com/9tee/beego/config"
+	"github.com/9tee/beego/context"
+	"github.com/9tee/beego/logs"
+	"github.com/9tee/beego/session"
+	"github.com/9tee/beego/utils"
 )
 
 // Config is the main struct for BConfig

@@ -22,7 +22,7 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/OpenStars/beego/context"
+	"github.com/9tee/beego/context"
 )
 
 func TestPrometheusMiddleWare(t *testing.T) {

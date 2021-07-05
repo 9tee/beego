@@ -46,7 +46,7 @@ fi
 
 GIT_DESCRIBE_TAG=$(git describe --tags)
 
-echo "github.com/OpenStars/beego.BuildVersion=${VERSION}"
-echo "github.com/OpenStars/beego.BuildGitRevision=${BUILD_GIT_REVISION}"
-echo "github.com/OpenStars/beego.BuildStatus=${tree_status}"
-echo "github.com/OpenStars/beego.BuildTag=${GIT_DESCRIBE_TAG}"
+echo "github.com/9tee/beego.BuildVersion=${VERSION}"
+echo "github.com/9tee/beego.BuildGitRevision=${BUILD_GIT_REVISION}"
+echo "github.com/9tee/beego.BuildStatus=${tree_status}"
+echo "github.com/9tee/beego.BuildTag=${GIT_DESCRIBE_TAG}"

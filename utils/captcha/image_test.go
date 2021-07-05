@@ -17,7 +17,7 @@ package captcha
 import (
 	"testing"
 
-	"github.com/OpenStars/beego/utils"
+	"github.com/9tee/beego/utils"
 )
 
 type byteCounter struct {

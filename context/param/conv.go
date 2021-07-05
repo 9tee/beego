@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"reflect"
 
-	beecontext "github.com/OpenStars/beego/context"
-	"github.com/OpenStars/beego/logs"
+	beecontext "github.com/9tee/beego/context"
+	"github.com/9tee/beego/logs"
 )
 
 // ConvertParams converts http method params to values that will be passed to the method controller as arguments

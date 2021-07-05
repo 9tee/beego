@@ -10,7 +10,7 @@ import (
 	"github.com/ledisdb/ledisdb/config"
 	"github.com/ledisdb/ledisdb/ledis"
 
-	"github.com/OpenStars/beego/session"
+	"github.com/9tee/beego/session"
 )
 
 var (

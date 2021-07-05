@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/OpenStars/beego/toolbox"
+	"github.com/9tee/beego/toolbox"
 )
 
 type SampleDatabaseCheck struct {

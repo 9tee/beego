@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/OpenStars/beego/logs"
+	"github.com/9tee/beego/logs"
 	"github.com/gogo/protobuf/proto"
 )
 

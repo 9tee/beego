@@ -19,8 +19,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/OpenStars/beego/context"
-	"github.com/OpenStars/beego/utils"
+	"github.com/9tee/beego/context"
+	"github.com/9tee/beego/utils"
 )
 
 var (

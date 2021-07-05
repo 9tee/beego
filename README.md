@@ -1,4 +1,4 @@
-# Beego [![Build Status](https://travis-ci.org/astaxie/beego.svg?branch=master)](https://travis-ci.org/astaxie/beego) [![GoDoc](http://godoc.org/github.com/OpenStars/beego?status.svg)](http://godoc.org/github.com/OpenStars/beego) [![Foundation](https://img.shields.io/badge/Golang-Foundation-green.svg)](http://golangfoundation.org) [![Go Report Card](https://goreportcard.com/badge/github.com/OpenStars/beego)](https://goreportcard.com/report/github.com/OpenStars/beego)
+# Beego [![Build Status](https://travis-ci.org/astaxie/beego.svg?branch=master)](https://travis-ci.org/astaxie/beego) [![GoDoc](http://godoc.org/github.com/9tee/beego?status.svg)](http://godoc.org/github.com/9tee/beego) [![Foundation](https://img.shields.io/badge/Golang-Foundation-green.svg)](http://golangfoundation.org) [![Go Report Card](https://goreportcard.com/badge/github.com/9tee/beego)](https://goreportcard.com/report/github.com/9tee/beego)
 
 
 beego is used for rapid development of RESTful APIs, web apps and backend services in Go.
@@ -19,13 +19,13 @@ It is inspired by Tornado, Sinatra and Flask. beego has some Go-specific feature
 
 #### Download and install
 
-    go get github.com/OpenStars/beego
+    go get github.com/9tee/beego
 
 #### Create file `hello.go`
 ```go
 package main
 
-import "github.com/OpenStars/beego"
+import "github.com/9tee/beego"
 
 func main(){
     beego.Run()

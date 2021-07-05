@@ -17,7 +17,7 @@ package migration
 import (
 	"fmt"
 
-	"github.com/OpenStars/beego/logs"
+	"github.com/9tee/beego/logs"
 )
 
 // Index struct defines the structure of Index Columns

@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/OpenStars/beego/cache"
+	"github.com/9tee/beego/cache"
 	"github.com/gomodule/redigo/redis"
 )
 

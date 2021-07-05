@@ -21,7 +21,7 @@
 //
 //	import (
 //		"fmt"
-//		"github.com/OpenStars/beego/orm"
+//		"github.com/9tee/beego/orm"
 //		_ "github.com/go-sql-driver/mysql" // import your used driver
 //	)
 //

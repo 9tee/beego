@@ -23,8 +23,8 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/OpenStars/beego"
-	"github.com/OpenStars/beego/logs"
+	"github.com/9tee/beego"
+	"github.com/9tee/beego/logs"
 )
 
 func PrometheusMiddleWare(next http.Handler) http.Handler {

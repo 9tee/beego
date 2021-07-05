@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/OpenStars/beego"
-	"github.com/OpenStars/beego/context"
+	"github.com/9tee/beego"
+	"github.com/9tee/beego/context"
 )
 
 // HTTPHeaderGuardRecorder is httptest.ResponseRecorder with own http.Header

@@ -8,7 +8,7 @@ In your beego.Controller:
 
  package controllers
 
- import "github.com/OpenStars/beego/utils/pagination"
+ import "github.com/9tee/beego/utils/pagination"
 
  type PostsController struct {
    beego.Controller

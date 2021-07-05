@@ -20,8 +20,8 @@
 //
 // Usage:
 // import(
-//   _ "github.com/OpenStars/beego/session/redis_sentinel"
-//   "github.com/OpenStars/beego/session"
+//   _ "github.com/9tee/beego/session/redis_sentinel"
+//   "github.com/9tee/beego/session"
 // )
 //
 //	func init() {
@@ -39,7 +39,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/OpenStars/beego/session"
+	"github.com/9tee/beego/session"
 	"github.com/go-redis/redis"
 )
 

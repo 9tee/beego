@@ -15,7 +15,7 @@
 // Package logs provide a general log interface
 // Usage:
 //
-// import "github.com/OpenStars/beego/logs"
+// import "github.com/9tee/beego/logs"
 //
 //	log := NewLogger(10000)
 //	log.SetLogger("console", "")
